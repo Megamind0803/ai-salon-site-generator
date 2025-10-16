@@ -1,0 +1,5 @@
+{
+  "name": "AI Salon Site Generator",
+  "description": "An application for salon owners to generate a beautiful, single-page website in under a minute by providing minimal details and choosing a color theme. The app uses AI to craft compelling marketing copy.",
+  "requestFramePermissions": []
+}
